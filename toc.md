@@ -1,6 +1,7 @@
-# CEO修炼之道
+# CEO修炼手册
 ### 怎样创建一家行业顶尖的企业
 
+英文原书来自 [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8)，中文版由 [ zijinshi ](https://github.com/zijinshi) 翻译整理。
 
 中文翻译已经得到原文作者 Matt Mochary 授权。
 
@@ -74,9 +75,6 @@
         
  
 ## 版本历史
-
-英文原书来自 [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8)，中文版由 [ zijinshi ](https://github.com/zijinshi) 翻译整理。
-
 | 版本 | 日期 | 说明 |
 | :--- | :--- | :--- |
 | 0.1 | 2024.03.05 | 初版完成 |
