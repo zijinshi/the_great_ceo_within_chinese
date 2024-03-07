@@ -57,7 +57,7 @@
   * [第34章 工程](part7/chapter34.md)
   * [第35章 运营](part7/chapter35.md)
 
-* 第八部分  其他部门
+* 第八部分  附录
   * [必读书籍](part8/essential_reading.md)
   * [附录A：《有意识的领导力》摘要](part8/essential_reading.md)
   * [附录B：技术创始人面临的挑战](part8/essential_reading.md)
