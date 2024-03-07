@@ -6,21 +6,21 @@
 
 ## 目录
 
-       * [简介](introduction.md)
+*  [简介](introduction.md)
 
-       * 第一部分  启程
-            * 第1章  开始
-            * 第2章  团队
+* 第一部分  启程
+  * [第1章  开始](part1/chapter1.md)
+  * [第2章  团队](part1/chapter2.md)
 
-        第二部分   个人习惯
-              第3章  完成任务（GTD）
-              第4章   收件箱清零
-              第5章   首要目标
-              第6章   准时与专注
-              第7章   需要说两遍时，写下来
-              第8章   感恩
-              第9章   能量审计
-              第10章   健康
+ *  第二部分   个人习惯
+  * [第3章  完成任务](part2/chapter3.md)
+  * [第4章  收件箱清零](part2/chapter4.md)
+  * [第5章  首要目标](part2/chapter5.md)
+  * [第6章  准时与专注](part2/chapter6.md)
+  * [第7章  需要说两遍时，写下来](part2/chapter7.md)
+  * [第8章  感恩](part2/chapter8.md)
+  * [第9章  能量审计](part2/chapter9.md)
+  * [第10章 健康](part2/chapter10.md)
 
         第三部分 团队习惯
               第11章   决策
