@@ -85,4 +85,4 @@
 | :--- | :--- |
 | CSDN | [https://blog.csdn.net/zijinshi/category_12596268.html](https://blog.csdn.net/zijinshi/category_12596268.html) |
 | Github | [https://github.com/zijinshi/the_great_ceo_within_chinese](https://github.com/zijinshi/the_great_ceo_within_chinese) |
-| Gitee | [https://blog.csdn.net/zijinshi/category_12596268.html](https://blog.csdn.net/zijinshi/category_12596268.html) |
+| Gitee | [https://gitee.com/borland/the_great_ceo_within_chinese](https://gitee.com/borland/the_great_ceo_within_chinese) |
