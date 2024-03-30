@@ -60,13 +60,13 @@
 
 * 第八部分  附录
   * [必读书籍](part8/essential_reading.md)
-  * [附录A：《有意识的领导力》摘要](part8/essential_reading.md)
-  * [附录B：技术创始人面临的挑战](part8/essential_reading.md)
-  * [附录C：招聘流程](part8/essential_reading.md)
-  * [附录D：责任区域示例清单](part8/essential_reading.md)
-  * [附录E：董事会](part8/essential_reading.md)
-  * [附录F：上市，还是不上市？](part8/essential_reading.md)
-  * [附录G：个人](part8/essential_reading.md)
+  * [附录A：《有意识的领导力》摘要](part8/append_a.md)
+  * [附录B：技术创始人面临的挑战](part8/append_b.md)
+  * [附录C：招聘流程](part8/append_c.md)
+  * [附录D：责任区域示例清单](part8/append_d.md)
+  * [附录E：董事会](part8/append_e.md)
+  * [附录F：上市，还是不上市？](part8/append_f.md)
+  * [附录G：个人](part8/append_g.md)
 
 * [关于作者](about_author.md)
 * [致谢](acknowledge.md)
