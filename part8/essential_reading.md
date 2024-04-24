@@ -1,1 +1,223 @@
-# 必读书籍
+# 第八部分 附录
+
+## 必读书籍
+
+在公司的启动、成长、运营阶段，会出现很多问题。成千上万的CEO都经历过这些问题。幸运的是，很多成功的CEO和商业领袖把这些问题和解决问题的经历以书籍的方式记录下来，与大家一起分享。
+
+这些书几乎教会了我们经营企业的每一个重要方面。 这些书籍数不下百本，我整理出了一些精华，以下是我的最爱，我认为它们是任何CEO或经理的必读书籍。
+
+在本书的剩余部分，我将与您分享这些书中的主要概念。 但它们涵盖的内容远不止我提到的这些，请务必尽快阅读。
+
+**个人效率**
+<table>
+  <tr>
+    <th>书名
+    </th>
+    <th>摘要
+    </th>
+    <th>作者
+    </th>
+    <th> 读完所需时间（小时）
+    </th>
+  <tr>
+  <tr>
+    <td>尽管去做：无压工作的艺术
+    </td>
+    <td> <a href="https://hamberg.no/gtd/">摘要</a>
+    </td>
+    <td> David Allen
+    </td>
+    <td> 10
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">侧重个人生产力，提供了一个组织和管理任务的系统。该系统有助于改善睡眠和整体效率。完全实现本书中的系统可能需要几天时间，但这种投资很超值。
+    </td>
+  </tr>
+</table>
+<br>
+
+**组织效率**
+<table>
+  <tr>
+    <th>书名
+    </th>
+    <th>摘要
+    </th>
+    <th>作者
+    </th>
+    <th> 读完所需时间（小时）
+    </th>
+  <tr>
+  <tr>
+    <td>一分钟经理
+    </td>
+    <td> <a href="http://www.jfdperfsolutions.com/modules/news/leadership-book_summary~3A_~26quot~3Bthe_one_minute_manager~26quot~3B_by_kenneth_blanchard_and_spencer_johnson.html">摘要</a>
+    </td>
+    <td> Ken Blanchard
+    </td>
+    <td> 0.5
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">描述了一种使用的、简单的报告结构。足够简单，可以让你的整个团队都阅读。我建议你这样做。（其中某些内容显然已经过时，请忽略这些部分。）
+    </td>
+  </tr>
+
+ <tr>
+    <td>格鲁夫给经理人的第一课
+    </td>
+    <td> <a href="http://charles.io/high-output-management/">摘要</a>
+    </td>
+    <td> Andy Grove  
+    </td>
+    <td> 10
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">经典的科技管理书籍。比《一分钟经理》更详细，但基本上结构相似。
+    </td>
+  </tr>
+
+   <tr>
+    <td>创业维艰
+    </td>
+    <td> <a href="https://booksummaries.co/the-hard-thing-about-hard-things-82dd119d5b86#.nbmj3hot6">摘要</a>
+    </td>
+    <td> Ben Horowitz  
+    </td>
+    <td> 6
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">赞扬《格鲁夫给经理人的第一课》的伟大之处，然后讨论其他书籍没有涉及的一些非常具体且棘手的情境应该如何处理。
+    </td>
+  </tr>
+  
+</table>
+<br>
+
+**销售与营销**
+<table>
+  <tr>
+    <th>书名
+    </th>
+    <th>摘要
+    </th>
+    <th>作者
+    </th>
+    <th> 读完所需时间（小时）
+    </th>
+  <tr>
+  <tr>
+    <td>Disciplined Entrepreneurship
+    </td>
+    <td> <a href="http://tech.co/disciplined-entrepreneurship-bill-aulet-2013-08">摘要</a>
+    </td>
+    <td> Bill Aulet
+    </td>
+    <td> 12 
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">痛苦但非常必要的一步一步指南，帮助确定真正的客户是谁，他们需要什么解决方案，以及如何进行市场推广和销售。如果您只读并应用其中一本书，请选择这一本。
+    </td>
+  </tr>
+
+  <tr>
+    <td>强势谈判
+    </td>
+    <td> <a href="https://github.com/mgp/book-notes/blob/master/never-split-the-difference.markdown">摘要</a>
+    </td>
+    <td>Chris Voss
+    </td>
+    <td>6
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">表面上是关于谈判的，但实际上是关于如何快速建立深厚的连接和信任，这是与三个关键利益相关方建立卓越关系的关键：客户（销售），员工（管理）和投资者（筹资）。这是我找到的关于销售的最佳书籍。
+    </td>
+  </tr>
+  
+</table>
+<br>
+
+**招聘**
+<table>
+  <tr>
+    <th>书名
+    </th>
+    <th>摘要
+    </th>
+    <th>作者
+    </th>
+    <th> 读完所需时间（小时）
+    </th>
+  <tr>
+  <tr>
+    <td>Who
+    </td>
+    <td> 
+    </td>
+    <td>Geoff Smart
+    </td>
+    <td>6
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">卓越的<a href="https://docs.google.com/document/d/1bHJJg-k-Xv_HIu9oC9uN5z7xzvL8ednP8CIlHfaVrxs/edit">招聘流程</a>，最大程度地确保仅招聘到顶级人才，确保他们在公司取得成功。
+    </td>
+  </tr>
+</table>
+<br>
+
+**企业文化**
+<table>
+  <tr>
+    <th>书名
+    </th>
+    <th>摘要
+    </th>
+    <th>作者
+    </th>
+    <th> 读完所需时间（小时）
+    </th>
+  <tr>
+  <tr>
+    <td>The 15 Commitments of Conscious Leadership<br>中文版《正念领导力》
+    </td>
+    <td> <a href="http://www.skipprichard.com/15-commitments-of-conscious-leadership/">摘要</a>
+    </td>
+    <td> Diana Chapman
+    </td>
+    <td> 10
+    </td>
+  <tr>
+  <tr>
+    <td colspan="4">公司可以通过上述书籍中概述的硬技能变得优秀。要变得伟大，公司必须变得充满好奇心并愿意学习。这本书展示了如何做到这一点。
+    </td>
+  </tr>
+</table>
+<br>
+
+上述链接的摘要没法涵盖书籍的全部内容，它只提供了推荐的梗概，但没有详细说明原因，而这些细节至关重要。请务必强迫自己阅读上述所有书籍的全部内容。相信你不会后悔。
+
+### 赚钱，享受乐趣，做好事
+
+商学院毕业后，我加入了Spectrum股权投资人，很多朋友，还有朋友的朋友开始向我寻求职业建议。他们的说法很委婉，实际上是想在Spectrum找到工作。实际上，那里没有合适他们的工作，但我诚实地给予了他们职业建议。他们每个人都说他们想要一份可以“赚钱、玩得开心和做好事”的工作。我回答说：“很好，但如果你只能选择其中一项，你会选哪个？”答案总是：“赚钱。”然后我告诉他们只优化这一个变量。如果他们试图优化所有三个，最终会陷入既不能赚钱又不能享受乐趣，还做不了好事的地方。
+
+在一遍又一遍地给出这个建议后，我意识到我需要自己去践行它。于是我创办了自己的公司，18个月后幸运地积累了比我知道如何使用的财富还要多。
+
+在赚到钱的时候，我现在可以享受乐趣。我把它当作全职工作。而且我做得很好。我连续做了3年，直到我玩得很过瘾，直到对此厌倦了。
+
+现在呢？那么，做好事似乎是下一个逻辑步骤。对我而言，这并不意味着给慈善机构捐款。它意味着做一些真正的脏活：帮助一些别人害怕去帮助的人。对我来说，这意味着帮助美国的重罪犯。这就是我决定成立Mochary基金会的时候。
+
+我发现的问题是：数百万曾经入狱的美国人很难找到工作，因为每个雇主都可以轻松地进行背景调查，绝大多数雇主如果有其他候选人可选，就不会雇佣有犯罪记录的人。这使曾经入狱的人几乎没有办法合法赚钱。但他们仍然需要吃饭。所以，他们会不惜一切手段来维持生计。这通常会导致他们直接回到监狱。
+
+在我看来，解决办法是为那些高技能职位提供短期职业培训，这些职位缺乏合格的候选人。在Mochary基金会，这就是我们做的事情：培训前罪犯获得商用驾驶执照。获得执照后的几天内，他们通常就能以每年超过5万美元的薪水开车，突然间他们的未来似乎变得稳定而可行。然后，他们想通过偿还培训费用以及额外支付2个人的培训费用来帮助下一个刑满释放人员。这使整个运营过程变得自负盈亏。
+
+我非常喜欢赚钱的成功感觉。那种好感持续了大约一周。然后，我非常享受乐趣。我很擅长，这持续了多年。但当我最终通过做好事改变了人们的生活时，我感到了一种我以前从未感受过的东西：深深的满足感。这是我曾经经历过的最好的感觉。
+
+这是我祝愿给予你的感觉。如果你知道你最终会到达那里，那么就没有等待的理由。
+
+你可以通过让你的公司 [承诺1%](https://pledge1percent.org/) 或个人[承诺创始人](https://docs.google.com/document/d/1_GDBxCHP6LTqy-OciTw5Ox1YoIGYnfnbkdnlUhzhWkg/edit?folder=0B9tanFUuwmYSMHIyU2pkYTZSVkU)的方式，更早地开始这个过程。你不会后悔的。而且你的行动将产生影响，因为它将是对其他人的启示。
