@@ -1,3 +1,5 @@
+# 致谢
+
 本书的完成离不开我所指导过的人和指导我的人，包括Chris Barber、Misha Talavera、Ryan Breslow、Alex MacCaw、Karissa Paddie、Naval Ravikant、Brian Armstrong、Tatiana Dorow、Alexander Kasser以及Stephen和Mary Mochary。
 
 为了完成本书，我们每个人都付出了很多努力。Chris Barber“找到”了我，并邀请我指导他在斯坦福大学的室友，这推动了我的指导生涯。我指导过的Misha、Ryan和Alex驱使我将这些文字呈现给大家；某些我没有动力写的部分是由Misha完成的，通过Ryan我认识了Karissa，Alex则在征得我的许可后终于将其推出。Karissa每周与我一同花费数小时，终于完成了文字的定稿和组织我的社交媒体形象。Naval读了一份早期草稿，并说这是他见过的最好的商业书籍（无论真假，这是他告诉我的），进一步鼓励我将其推向世界。Brian也读了一份早期草稿，并基于此邀请我指导他。我的妻子Tatiana，嗯，她通过每天都逗我笑，使我的生活变得很美好。Alexander，我的祖父，让我觉得我永远不可能失败，无论我多么努力。Stephen和Mary，我的父母，一直是我最大的支持者。
