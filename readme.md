@@ -68,9 +68,8 @@
   * [附录F：上市，还是不上市？](part8/essential_reading.md)
   * [附录G：个人](part8/essential_reading.md)
 
-* [关于作者](about_author.md)
 * [致谢](acknowledge.md)
-* [我为什么要翻译这本书](why.md)
+* [关于作者](about_author.md)
         
         
  
@@ -78,6 +77,7 @@
 | 版本 | 日期 | 说明 |
 | :--- | :--- | :--- |
 | 0.1 | 2024.03.05 | 初版完成 |
+| 0.2 | 2024.06.01 | 初版完成 |
 
 
 ## 发布地址
