@@ -11,5 +11,5 @@
 如果以前你从未经历过2小时专注的工作时间，我建议还是循序渐进地改变，短时间内跨度太大会很难习惯。怎么改变呢？从明天开始，安排30分钟。如果顺利，那么以后每个工作日早上安排30分钟，持续一周。倘若运行良好，将每日预定时间增加到1小时。每周持续增加，找到平衡点，直到每天2小时。
 
 ---
-1. 2016年4月浙江出版社出版，英文原书名为，英文原书名为 [*Essentialism*](https://smile.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/ref=sr_1_1?ie=UTF8&qid=1479153913&sr=8-1&keywords=essentialism)。<br>
+1. 2016年4月浙江人民出版社出版，英文原书名为，英文原书名为 [*Essentialism*](https://smile.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/ref=sr_1_1?ie=UTF8&qid=1479153913&sr=8-1&keywords=essentialism)。<br>
 2. 译者注：在安排了首要目标时间之后，在这个时间段就会处于忙碌状态。如果有其他事项要安排，自然会避开忙碌的时间。
