@@ -7,6 +7,7 @@
 创建一份文档，列出公司中所有可能的职能。在每个职能旁边，列出直接负责人（Directly Responsible Individual，DRI），这就是AOR列表。确保它包含了所有问题，不会出现某个问题不属于任何职能的情况。公司每位员工都知道如何访问这份文档，当新功能出现或责任转移时必须更新文档。
 
 附录D是一份 [AOR样例](https://docs.google.com/spreadsheets/d/1Zi2rmuOH3_WqE-4Qir35XpKZMxcghz_OVowNySBpqbE/edit#gid=0)，供参考。
+<br>
 
 ___
 ① 原文是“公地悲剧”。
